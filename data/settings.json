@@ -1,0 +1,7 @@
+{
+    "ssid": "wifissid",
+    "password": "wifipass",
+    "devicekey" : "meross devicekey",
+    "deviceurl": "meross url",
+    "blubip" : "wiz blub ip"
+}
